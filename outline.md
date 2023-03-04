@@ -19,7 +19,7 @@
     + Has poison slime that can deal steady damage over time
     + Has tazer between eyes that can knock enemies unconscious
   * Can only assume small and medium shells
-- King Crab
+- King Crab/Voidcrab
   * Medium speed
   * Low-medium health
   * High attack damage and low attack speed:
@@ -64,3 +64,9 @@
 - Henchmen alert if a shell moves in their vision or a shell appears suddenly in their recent path
 - Henchmen try to capture/kill you when they notice you so they can cook you and serve you as a delicacy in the enemy player's restaurant, Dead Lobster
 - You win the round by killing the opposing shell creature that the henchmen work for and serve him in your restaurant Au Bon Pain
+
+## Special Enemies
+- Voidstar:
+  * Attacks with the galaxy pearl
+  * When he kills someone, he jumps in and takes control of their body
+  * Form a special group of enemies named Galaxy Types that aren't on either team
